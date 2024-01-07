@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "1",
+    "department_id" : "1",
+    "subject_code" : "333333",
+    "subject_name" : "Xyz"
+  },
+   {
+    "id" : "1",
+    "department_id" : "1",
+    "subject_code" : "333333",
+    "subject_name" : "Xyz"
+  },
+   {
+    "id" : "1",
+    "department_id" : "1",
+    "subject_code" : "333333",
+    "subject_name" : "Xyz"
+  }
+]

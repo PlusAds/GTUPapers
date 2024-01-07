@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "department": "Mechanical",
+    "icon": "https://cdn-icons-png.flaticon.com/512/11498/11498968.png"
+  },
+  {
+    "id": "2",
+    "department": "Chemical",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157001.png"
+  },
+  {
+    "id": "3",
+    "department": "Civil",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2486/2486950.png"
+  },
+  {
+    "id": "4",
+    "department": "Computer",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1865/1865273.png"
+  },
+  {
+    "id": "5",
+    "department": "Electrical",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2860/2860118.png"
+  }
+]

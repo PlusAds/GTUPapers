@@ -1,0 +1,260 @@
+[
+    {
+        "id": "1",
+        "department_id": "1",
+        "subject_code": "3110005",
+        "subject_name": "Basic Electrical Engineering"
+    },
+    {
+        "id": "2",
+        "department_id": "1",
+        "subject_code": "3110007",
+        "subject_name": "Environmental Science"
+    },
+    {
+        "id": "3",
+        "department_id": "1",
+        "subject_code": "3110013",
+        "subject_name": "Engineering Graphics & Design"
+    },
+    {
+        "id": "4",
+        "department_id": "1",
+        "subject_code": "3110014",
+        "subject_name": "Mathematics - 1"
+    },
+   	{
+        "id": "5",
+        "department_id": "1",
+        "subject_code": "3110003",
+        "subject_name": "Programming for Problem Solving"
+    },
+    {
+        "id": "6",
+        "department_id": "1",
+        "subject_code": "3110006",
+        "subject_name": "Basic Mechanical Engineering"
+    },
+    {
+        "id": "7",
+        "department_id": "1",
+        "subject_code": "3110015",
+        "subject_name": "Mathematics - 2"
+    },
+    {
+        "id": "8",
+        "department_id": "1",
+        "subject_code": "3110016",
+        "subject_name": "Basic Electronics"
+    },
+    {
+        "id": "9",
+        "department_id": "1",
+        "subject_code": "3110018",
+        "subject_name": "Physics"
+    },
+    {
+        "id": "10",
+        "department_id": "1",
+        "subject_code": "3110004",
+        "subject_name": "Basic Civil Engineering"
+    },
+    {
+        "id": "11",
+        "department_id": "1",
+        "subject_code": "3110002",
+        "subject_name": "English"
+    },
+    {
+        "id": "1",
+        "department_id": "1",
+        "subject_code": "3131904",
+        "subject_name": "Material Science and Metallurgy"
+    },
+    {
+        "id": "2",
+        "department_id": "1",
+        "subject_code": "3131905",
+        "subject_name": "Engineering Thermodynamics"
+    },
+    {
+        "id": "3",
+        "department_id": "1",
+        "subject_code": "3131906",
+        "subject_name": "Kinematics and Theory of Machines"
+    },
+    {
+        "id": "4",
+        "department_id": "1",
+        "subject_code": "3130004",
+        "subject_name": "Effective Technical Communication"
+    },
+    {
+        "id": "5",
+        "department_id": "1",
+        "subject_code": "3130005",
+        "subject_name": "Complex Variables and Partial Differential Equations"
+    },
+    {
+        "id": "6",
+        "department_id": "1",
+        "subject_code": "3130007",
+        "subject_name": "Indian Constitution"
+    },
+    {
+        "id": "7",
+        "department_id": "1",
+        "subject_code": "3130008",
+        "subject_name": "Design Engineering 1 A"
+    },
+    {
+        "id": "1",
+        "department_id": "1",
+        "subject_code": "3141901",
+        "subject_name": "Mechanical Measurement and Metrology"
+    },
+    {
+        "id": "2",
+        "department_id": "1",
+        "subject_code": "3141906",
+        "subject_name": "Fluid Mechanics and Hydraulics Machines"
+    },
+    {
+        "id": "3",
+        "department_id": "1",
+        "subject_code": "3141907",
+        "subject_name": "Fundamentals of Machine Design"
+    },
+    {
+        "id": "4",
+        "department_id": "1",
+        "subject_code": "3141908",
+        "subject_name": "Manufacturing Processes"
+    },
+    {
+        "id": "5",
+        "department_id": "1",
+        "subject_code": "3141909",
+        "subject_name": "Organisational Behaviour"
+    },
+    {
+        "id": "6",
+        "department_id": "1",
+        "subject_code": "3140005",
+        "subject_name": "Design Engineering 1 B"
+    },
+    {
+        "id": "1",
+        "department_id": "1",
+        "subject_code": "3150004",
+        "subject_name": "Contributor Personality Development Program (CPDP)"
+    },
+    {
+        "id": "2",
+        "department_id": "1",
+        "subject_code": "3150005",
+        "subject_name": "Integrated Personality Development Course (IPDC)"
+    },
+    {
+        "id": "3",
+        "department_id": "1",
+        "subject_code": "3151908",
+        "subject_name": "Control Engineering"
+    },
+    {
+        "id": "4",
+        "department_id": "1",
+        "subject_code": "3151909",
+        "subject_name": "Heat Transfer"
+    },
+    {
+        "id": "5",
+        "department_id": "1",
+        "subject_code": "3151910",
+        "subject_name": "Operation Research"
+    },
+    {
+        "id": "6",
+        "department_id": "1",
+        "subject_code": "3151911",
+        "subject_name": "Dynamics of Machinery"
+    },
+    {
+        "id": "7",
+        "department_id": "1",
+        "subject_code": "3151912",
+        "subject_name": "Manufacturing Technology"
+    },
+    {
+        "id": "8",
+        "department_id": "1",
+        "subject_code": "3151913",
+        "subject_name": "Oil Hydraulics And Pneumatics"
+    },
+    {
+        "id": "9",
+        "department_id": "1",
+        "subject_code": "3150001",
+        "subject_name": "Design Engineering 2 A"
+    },
+    {
+        "id": "1",
+        "department_id": "1",
+        "subject_code": "3161918",
+        "subject_name": "Tribology and Terotechnology"
+    },
+    {
+        "id": "2",
+        "department_id": "1",
+        "subject_code": "3161919",
+        "subject_name": "Energy Conservation and Management"
+    },
+    {
+        "id": "3",
+        "department_id": "1",
+        "subject_code": "3161920",
+        "subject_name": "Automobile Engineering"
+    },
+    {
+        "id": "4",
+        "department_id": "1",
+        "subject_code": "3161921",
+        "subject_name": "Machine Tool Design"
+    },
+    {
+        "id": "5",
+        "department_id": "1",
+        "subject_code": "3161922",
+        "subject_name": "Advanced Manufacturing Processes"
+    },
+    {
+        "id": "6",
+        "department_id": "1",
+        "subject_code": "3161923",
+        "subject_name": "Non-destructive Testing"
+    },
+    {
+        "id": "7",
+        "department_id": "1",
+        "subject_code": "3161924",
+        "subject_name": "Entrepreneurship and E-business"
+    },
+    {
+        "id": "8",
+        "department_id": "1",
+        "subject_code": "3161925",
+        "subject_name": "Cyber Laws and Ethics"
+    },
+    {
+        "id": "9",
+        "department_id": "1",
+        "subject_code": "3161926",
+        "subject_name": "Industry 4.0"
+    },
+    {
+        "id": "10",
+        "department_id": "1",
+        "subject_code": "3160001",
+        "subject_name": "Design Engineering 2 B"
+    }
+]
