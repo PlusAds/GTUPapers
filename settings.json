@@ -1,6 +1,6 @@
 {
-  "base" : "https://example.com",
-  "department_path" : "/",
+  "base" : "https://plusads.github.io/GTUPapers",
+  "department_path" : "/departments.json",
   "subject_path" : "/",
   "pdf_path" : "/pdf/"
 }
