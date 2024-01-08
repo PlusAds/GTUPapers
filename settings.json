@@ -1,0 +1,6 @@
+{
+  "base" : "https://example.com",
+  "department_path" : "/",
+  "subject_path" : "/",
+  "pdf_path" : "/pdf/"
+}
