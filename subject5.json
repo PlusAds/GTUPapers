@@ -1,20 +1,410 @@
 [
-  {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
-  },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
-  },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
-  }
+    {
+        "id": "1",
+        "department_id": "5",
+        "subject_code": "3110005",
+        "subject_name": "Basic Electrical Engineering"
+    },
+    {
+        "id": "2",
+        "department_id": "5",
+        "subject_code": "3110007",
+        "subject_name": "Environmental Science"
+    },
+    {
+        "id": "3",
+        "department_id": "5",
+        "subject_code": "3110013",
+        "subject_name": "Engineering Graphics & Design"
+    },
+    {
+        "id": "4",
+        "department_id": "5",
+        "subject_code": "3110004",
+        "subject_name": "Basic Civil Engineering"
+    },
+    {
+        "id": "5",
+        "department_id": "5",
+        "subject_code": "311004",
+        "subject_name": "Mathematics-I"
+    },
+    {
+        "id": "6",
+        "department_id": "5",
+        "subject_code": "3110011",
+        "subject_name": "Physics Group - I"
+    },
+    {
+        "id": "7",
+        "department_id": "5",
+        "subject_code": "3110018",
+        "subject_name": "Physics Group - II"
+    },
+    {
+        "id": "8",
+        "department_id": "5",
+        "subject_code": "3110001",
+        "subject_name": "Chemistry"
+    },
+    {
+        "id": "9",
+        "department_id": "5",
+        "subject_code": "3110012",
+        "subject_name": "Workshop"
+    },
+    {
+        "id": "10",
+        "department_id": "5",
+        "subject_code": "3110002",
+        "subject_name": "English"
+    },
+    {
+        "id": "11",
+        "department_id": "5",
+        "subject_code": "3110006",
+        "subject_name": "Basic Mechanical Engineering"
+    },
+    {
+        "id": "12",
+        "department_id": "5",
+        "subject_code": "3110003",
+        "subject_name": "Programming for Problem Solving"
+    },
+    {
+        "id": "13",
+        "department_id": "5",
+        "subject_code": "3110015",
+        "subject_name": "Mathematics II"
+    },
+    {
+        "id": "14",
+        "department_id": "5",
+        "subject_code": "3110016",
+        "subject_name": "Basics of Electronics"
+    },
+    {
+        "id": "15",
+        "department_id": "5",
+        "subject_code": "3110013",
+        "subject_name": "Engineering Graphics and Design"
+    },
+    {
+        "id": "16",
+        "department_id": "5",
+        "subject_code": "3130004",
+        "subject_name": "Effective Technical Communication"
+    },
+    {
+        "id": "17",
+        "department_id": "5",
+        "subject_code": "3130905",
+        "subject_name": "Control System Theory"
+    },
+    {
+        "id": "18",
+        "department_id": "5",
+        "subject_code": "3130007",
+        "subject_name": "Indian Constitution"
+    },
+    {
+        "id": "19",
+        "department_id": "5",
+        "subject_code": "3130008",
+        "subject_name": "Design Engineering 1 A"
+    },
+    {
+        "id": "20",
+        "department_id": "5",
+        "subject_code": "3130906",
+        "subject_name": "Electrical Circuit Analysis"
+    },
+    {
+        "id": "21",
+        "department_id": "5",
+        "subject_code": "3130907",
+        "subject_name": "Analog and Digital Electronics"
+    },
+    {
+        "id": "22",
+        "department_id": "5",
+        "subject_code": "3130908",
+        "subject_name": "Applied Mathematics for Electrical Engineering"
+    },
+    {
+        "id": "23",
+        "department_id": "5",
+        "subject_code": "3140005",
+        "subject_name": "Design Engineering 1 B"
+    },
+    {
+        "id": "24",
+        "department_id": "5",
+        "subject_code": "3140911",
+        "subject_name": "Economics for Engineers"
+    },
+    {
+        "id": "25",
+        "department_id": "5",
+        "subject_code": "3140912",
+        "subject_name": "Electromagnetics Field"
+    },
+    {
+        "id": "26",
+        "department_id": "5",
+        "subject_code": "3140913",
+        "subject_name": "Electrical Machine- I"
+    },
+    {
+        "id": "27",
+        "department_id": "5",
+        "subject_code": "3140914",
+        "subject_name": "Power System- I"
+    },
+    {
+        "id": "28",
+        "department_id": "5",
+        "subject_code": "3140915",
+        "subject_name": "Power Electronics"
+    },
+    {
+        "id": "29",
+        "department_id": "5",
+        "subject_code": "3150001",
+        "subject_name": "Design Engineering - II A"
+    },
+    {
+        "id": "30",
+        "department_id": "5",
+        "subject_code": "3150004",
+        "subject_name": "Contributor Personality Development Program"
+    },
+    {
+        "id": "31",
+        "department_id": "5",
+        "subject_code": "3150005",
+        "subject_name": "Integrated Personality Development Course"
+    },
+    {
+        "id": "32",
+        "department_id": "5",
+        "subject_code": "3150709",
+        "subject_name": "Professional ethics"
+    },
+    {
+        "id": "33",
+        "department_id": "5",
+        "subject_code": "3150910",
+        "subject_name": "Electrical Machine- II"
+    },
+    {
+        "id": "34",
+        "department_id": "5",
+        "subject_code": "3150911",
+        "subject_name": "Power System- II"
+    },
+    {
+        "id": "35",
+        "department_id": "5",
+        "subject_code": "3150912",
+        "subject_name": "Signals and Systems"
+    },
+    {
+        "id": "36",
+        "department_id": "5",
+        "subject_code": "3150913",
+        "subject_name": "Disaster Management"
+    },
+    {
+        "id": "37",
+        "department_id": "5",
+        "subject_code": "3151108",
+        "subject_name": "Python Programming"
+    },
+    {
+        "id": "38",
+        "department_id": "5",
+        "subject_code": "3151910",
+        "subject_name": "Operation Research"
+    },
+    {
+        "id": "39",
+        "department_id": "5",
+        "subject_code": "3160001",
+        "subject_name": "Design Engineering II B"
+    },
+    {
+        "id": "40",
+        "department_id": "5",
+        "subject_code": "3160001",
+        "subject_name": "Contributor Personality Development Program"
+    },
+    {
+        "id": "41",
+        "department_id": "5",
+        "subject_code": "3160003",
+        "subject_name": "Integrated Personality Development Course"
+    },
+    {
+        "id": "42",
+        "department_id": "5",
+        "subject_code": "3160914",
+        "subject_name": "Microprocessors and Microcontrollers"
+    },
+    {
+        "id": "43",
+        "department_id": "5",
+        "subject_code": "3160915",
+        "subject_name": "Electrical Measurement and Measuring Instruments"
+    },
+    {
+        "id": "44",
+        "department_id": "5",
+        "subject_code": "3160920",
+        "subject_name": "Inter Connected Power System"
+    },
+    {
+        "id": "45",
+        "department_id": "5",
+        "subject_code": "3160921",
+        "subject_name": "HVDC Transmission Systems"
+    },
+    {
+        "id": "46",
+        "department_id": "5",
+        "subject_code": "3160922",
+        "subject_name": "Object Oriented Programming"
+    },
+    {
+        "id": "47",
+        "department_id": "5",
+        "subject_code": "3160923",
+        "subject_name": "Electrical Materials"
+    },
+    {
+        "id": "48",
+        "department_id": "5",
+        "subject_code": "3161925",
+        "subject_name": "Cyber Laws and Ethics"
+    },
+    {
+        "id": "49",
+        "department_id": "5",
+        "subject_code": "3160917",
+        "subject_name": "Wind and Solar Energy"
+    },
+    {
+        "id": "50",
+        "department_id": "5",
+        "subject_code": "3160918",
+        "subject_name": "Element of Electrical Design"
+    },
+    {
+        "id": "51",
+        "department_id": "5",
+        "subject_code": "3160919",
+        "subject_name": "Electric Drives"
+    },
+    {
+        "id": "52",
+        "department_id": "5",
+        "subject_code": "3170001",
+        "subject_name": "Summer Internship"
+    },
+    {
+        "id": "53",
+        "department_id": "5",
+        "subject_code": "3170906",
+        "subject_name": "Advanced Power Electronics"
+    },
+    {
+        "id": "54",
+        "department_id": "5",
+        "subject_code": "3170908",
+        "subject_name": "Switchgear And Protection"
+    },
+    {
+        "id": "55",
+        "department_id": "5",
+        "subject_code": "3170909",
+        "subject_name": "AC Machine Design"
+    },
+    {
+        "id": "56",
+        "department_id": "5",
+        "subject_code": "3170914",
+        "subject_name": "Advanced Microcontrollers"
+    },
+    {
+        "id": "57",
+        "department_id": "5",
+        "subject_code": "3170915",
+        "subject_name": "Power System Dynamics and Control"
+    },
+    {
+        "id": "58",
+        "department_id": "5",
+        "subject_code": "3170916",
+        "subject_name": "Advanced Electric Drives"
+    },
+    {
+        "id": "59",
+        "department_id": "5",
+        "subject_code": "3170917",
+        "subject_name": "High Voltage Engineering"
+    },
+    {
+        "id": "60",
+        "department_id": "5",
+        "subject_code": "3170918",
+        "subject_name": "Digital Signal Processors"
+    },
+    {
+        "id": "61",
+        "department_id": "5",
+        "subject_code": "3170919",
+        "subject_name": "Power System Operation and Control"
+    },
+    {
+        "id": "62",
+        "department_id": "5",
+        "subject_code": "3170920",
+        "subject_name": "Industrial Electrical Systems"
+    },
+    {
+        "id": "63",
+        "department_id": "5",
+        "subject_code": "3170921",
+        "subject_name": "Power Quality and FACTS"
+    },
+    {
+        "id": "64",
+        "department_id": "5",
+        "subject_code": "3170922",
+        "subject_name": "Smart Grids"
+    },
+    {
+        "id": "65",
+        "department_id": "5",
+        "subject_code": "3170923",
+        "subject_name": "Electrical and Hybrid Vehicle"
+    },
+    {
+        "id": "66",
+        "department_id": "5",
+        "subject_code": "3170924",
+        "subject_name": "AI and Machine Learning"
+    },
+    {
+        "id": "67",
+        "department_id": "5",
+        "subject_code": "3170925",
+        "subject_name": "Industrial Automation"
+    },
+    {
+        "id": "68",
+        "department_id": "5",
+        "subject_code": "3171108",
+        "subject_name": "Internet of Things"
+    }
 ]
