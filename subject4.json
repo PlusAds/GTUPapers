@@ -78,12 +78,6 @@
     "subject_name": "Indian Constitution"
   },
   {
-    "id": "14",
-    "department_id": "4",
-    "subject_code": "3130008",
-    "subject_name": "Design Engineering 1 A"
-  },
-  {
     "id": "15",
     "department_id": "4",
     "subject_code": "3130702",
@@ -244,12 +238,6 @@
     "department_id": "4",
     "subject_code": "3160717",
     "subject_name": "Data Visualization"
-  },
-  {
-    "id": "42",
-    "department_id": "4",
-    "subject_code": "3170001",
-    "subject_name": "Summer Internship"
   },
   {
     "id": "43",
