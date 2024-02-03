@@ -1,20 +1,332 @@
 [
   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+    "id": "1",
+    "department_id": "4",
+    "subject_code": "3110005",
+    "subject_name": "Basic Electrical Engineering"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "2",
+    "department_id": "4",
+    "subject_code": "3110007",
+    "subject_name": "Environmental Science"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "3",
+    "department_id": "4",
+    "subject_code": "3110013",
+    "subject_name": "Engineering Graphics & Design"
+  },
+  {
+    "id": "4",
+    "department_id": "4",
+    "subject_code": "3110014",
+    "subject_name": "Mathematics – 1"
+  },
+  {
+    "id": "5",
+    "department_id": "4",
+    "subject_code": "3110003",
+    "subject_name": "Programming for Problem Solving"
+  },
+  {
+    "id": "6",
+    "department_id": "4",
+    "subject_code": "3110006",
+    "subject_name": "Basic Mechanical Engineering"
+  },
+  {
+    "id": "7",
+    "department_id": "4",
+    "subject_code": "3110015",
+    "subject_name": "Mathematics – 2"
+  },
+  {
+    "id": "8",
+    "department_id": "4",
+    "subject_code": "3110016",
+    "subject_name": "Basic Electronics"
+  },
+  {
+    "id": "9",
+    "department_id": "4",
+    "subject_code": "3110018",
+    "subject_name": "Physics"
+  },
+  {
+    "id": "10",
+    "department_id": "4",
+    "subject_code": "3110002",
+    "subject_name": "English"
+  },
+  {
+    "id": "11",
+    "department_id": "4",
+    "subject_code": "3130004",
+    "subject_name": "Effective Technical Communication"
+  },
+  {
+    "id": "12",
+    "department_id": "4",
+    "subject_code": "3130006",
+    "subject_name": "Probability and Statistics"
+  },
+  {
+    "id": "13",
+    "department_id": "4",
+    "subject_code": "3130007",
+    "subject_name": "Indian Constitution"
+  },
+  {
+    "id": "14",
+    "department_id": "4",
+    "subject_code": "3130008",
+    "subject_name": "Design Engineering 1 A"
+  },
+  {
+    "id": "15",
+    "department_id": "4",
+    "subject_code": "3130702",
+    "subject_name": "Data Structures"
+  },
+  {
+    "id": "16",
+    "department_id": "4",
+    "subject_code": "3130703",
+    "subject_name": "Database Management Systems"
+  },
+  {
+    "id": "17",
+    "department_id": "4",
+    "subject_code": "3130704",
+    "subject_name": "Digital Fundamentals"
+  },
+  {
+    "id": "18",
+    "department_id": "4",
+    "subject_code": "3140702",
+    "subject_name": "Operating System"
+  },
+  {
+    "id": "19",
+    "department_id": "4",
+    "subject_code": "3140705",
+    "subject_name": "Object-Oriented Programming -I"
+  },
+  {
+    "id": "20",
+    "department_id": "4",
+    "subject_code": "3140707",
+    "subject_name": "Computer Organization & Architecture"
+  },
+  {
+    "id": "21",
+    "department_id": "4",
+    "subject_code": "3140708",
+    "subject_name": "Discrete Mathematics"
+  },
+  {
+    "id": "22",
+    "department_id": "4",
+    "subject_code": "3140709",
+    "subject_name": "Principles of Economics and Management"
+  },
+  {
+    "id": "23",
+    "department_id": "4",
+    "subject_code": "3150004",
+    "subject_name": "Contributor Personality Development Program"
+  },
+  {
+    "id": "24",
+    "department_id": "4",
+    "subject_code": "3150005",
+    "subject_name": "Integrated Personality Development Course"
+  },
+  {
+    "id": "25",
+    "department_id": "4",
+    "subject_code": "3150703",
+    "subject_name": "Analysis and Design of Algorithms"
+  },
+  {
+    "id": "26",
+    "department_id": "4",
+    "subject_code": "3150709",
+    "subject_name": "Professional Ethics"
+  },
+  {
+    "id": "27",
+    "department_id": "4",
+    "subject_code": "3150710",
+    "subject_name": "Computer Networks"
+  },
+  {
+    "id": "28",
+    "department_id": "4",
+    "subject_code": "3150711",
+    "subject_name": "Software Engineering"
+  },
+  {
+    "id": "29",
+    "department_id": "4",
+    "subject_code": "3150712",
+    "subject_name": "Computer Graphics"
+  },
+  {
+    "id": "30",
+    "department_id": "4",
+    "subject_code": "3150713",
+    "subject_name": "Python for Data Science"
+  },
+  {
+    "id": "31",
+    "department_id": "4",
+    "subject_code": "3150714",
+    "subject_name": "Cyber Security"
+  },
+  {
+    "id": "32",
+    "department_id": "4",
+    "subject_code": "3160002",
+    "subject_name": "Contributor Personality Development Program"
+  },
+  {
+    "id": "33",
+    "department_id": "4",
+    "subject_code": "3160003",
+    "subject_name": "Integrated Personality Development Course"
+  },
+  {
+    "id": "34",
+    "department_id": "4",
+    "subject_code": "3160704",
+    "subject_name": "Theory of Computation"
+  },
+  {
+    "id": "35",
+    "department_id": "4",
+    "subject_code": "3160707",
+    "subject_name": "Advanced Java Programming"
+  },
+  {
+    "id": "36",
+    "department_id": "4",
+    "subject_code": "3160712",
+    "subject_name": "Microprocessor and Interfacing"
+  },
+  {
+    "id": "37",
+    "department_id": "4",
+    "subject_code": "3160713",
+    "subject_name": "Web Programming"
+  },
+  {
+    "id": "38",
+    "department_id": "4",
+    "subject_code": "3160714",
+    "subject_name": "Data Mining"
+  },
+  {
+    "id": "39",
+    "department_id": "4",
+    "subject_code": "3160715",
+    "subject_name": "System Software"
+  },
+  {
+    "id": "40",
+    "department_id": "4",
+    "subject_code": "3160716",
+    "subject_name": "IOT and applications"
+  },
+  {
+    "id": "41",
+    "department_id": "4",
+    "subject_code": "3160717",
+    "subject_name": "Data Visualization"
+  },
+  {
+    "id": "42",
+    "department_id": "4",
+    "subject_code": "3170001",
+    "subject_name": "Summer Internship"
+  },
+  {
+    "id": "43",
+    "department_id": "4",
+    "subject_code": "3170701",
+    "subject_name": "Compiler Design"
+  },
+  {
+    "id": "44",
+    "department_id": "4",
+    "subject_code": "3170710",
+    "subject_name": "Mobile Computing & Wireless Communication"
+  },
+  {
+    "id": "45",
+    "department_id": "4",
+    "subject_code": "3170716",
+    "subject_name": "Artificial Intelligence"
+  },
+  {
+    "id": "46",
+    "department_id": "4",
+    "subject_code": "3170717",
+    "subject_name": "Cloud Computing"
+  },
+  {
+    "id": "47",
+    "department_id": "4",
+    "subject_code": "3170718",
+    "subject_name": "Information Retrieval"
+  },
+  {
+    "id": "48",
+    "department_id": "4",
+    "subject_code": "3170719",
+    "subject_name": "Distributed System"
+  },
+  {
+    "id": "49",
+    "department_id": "4",
+    "subject_code": "3170720",
+    "subject_name": "Information Security"
+  },
+  {
+    "id": "50",
+    "department_id": "4",
+    "subject_code": "3170721",
+    "subject_name": "Parallel and Distributed Computing"
+  },
+  {
+    "id": "51",
+    "department_id": "4",
+    "subject_code": "3170722",
+    "subject_name": "Big Data Analytics"
+  },
+  {
+    "id": "52",
+    "department_id": "4",
+    "subject_code": "3170723",
+    "subject_name": "Natural Language Processing"
+  },
+  {
+    "id": "53",
+    "department_id": "4",
+    "subject_code": "3170724",
+    "subject_name": "Machine Learning"
+  },
+  {
+    "id": "54",
+    "department_id": "4",
+    "subject_code": "3170725",
+    "subject_name": "Digital Forensics"
+  },
+  {
+    "id": "55",
+    "department_id": "4",
+    "subject_code": "3170726",
+    "subject_name": "Mobile Application Development"
   }
 ]
