@@ -1,20 +1,260 @@
 [
   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+    "id": "1",
+    "department_id": "2",
+    "subject_code": "3170001",
+    "subject_name": "Summer Internship"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "2",
+    "department_id": "2",
+    "subject_code": "3170501",
+    "subject_name": "Chemical Reactions Engineering II"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "3",
+    "department_id": "2",
+    "subject_code": "3170502",
+    "subject_name": "Process Equipment Design"
+  },
+  {
+    "id": "4",
+    "department_id": "2",
+    "subject_code": "3170507",
+    "subject_name": "Computer Aided Process Synthesis"
+  },
+  {
+    "id": "5",
+    "department_id": "2",
+    "subject_code": "3170509",
+    "subject_name": "Nanoscience and Technology"
+  },
+  {
+    "id": "6",
+    "department_id": "2",
+    "subject_code": "3170510",
+    "subject_name": "Process Intensification"
+  },
+  {
+    "id": "7",
+    "department_id": "2",
+    "subject_code": "3170511",
+    "subject_name": "Transport Phenomena"
+  },
+  {
+    "id": "8",
+    "department_id": "2",
+    "subject_code": "3170512",
+    "subject_name": "Introduction to Computational Fluid Dynamics"
+  },
+  {
+    "id": "9",
+    "department_id": "2",
+    "subject_code": "3170513",
+    "subject_name": "Process Modelling, Simulation and Optimization"
+  },
+  {
+    "id": "10",
+    "department_id": "2",
+    "subject_code": "3170514",
+    "subject_name": "Mechanical Design of Process equipments"
+  },
+  {
+    "id": "11",
+    "department_id": "2",
+    "subject_code": "3170515",
+    "subject_name": "Piping Design"
+  },
+  {
+    "id": "12",
+    "department_id": "2",
+    "subject_code": "3170516",
+    "subject_name": "Process Auxiliaries and utilities"
+  },
+  {
+    "id": "13",
+    "department_id": "1",
+    "subject_code": "3130004",
+    "subject_name": "Effective Technical Communication"
+  },
+  {
+    "id": "14",
+    "department_id": "1",
+    "subject_code": "3130007",
+    "subject_name": "Indian Constitution"
+  },
+  {
+    "id": "15",
+    "department_id": "1",
+    "subject_code": "3130008",
+    "subject_name": "Design Engineering 1 A"
+  },
+  {
+    "id": "16",
+    "department_id": "1",
+    "subject_code": "3130502",
+    "subject_name": "Fluid Flow Operations"
+  },
+  {
+    "id": "17",
+    "department_id": "1",
+    "subject_code": "3130506",
+    "subject_name": "Applied Chemistry"
+  },
+  {
+    "id": "18",
+    "department_id": "1",
+    "subject_code": "3130507",
+    "subject_name": "Chemical Engineering Thermodynamics I"
+  },
+  {
+    "id": "19",
+    "department_id": "1",
+    "subject_code": "3130508",
+    "subject_name": "Material and Energy Balance Computations"
+  },
+  {
+    "id": "20",
+    "department_id": "1",
+    "subject_code": "3140005",
+    "subject_name": "Design Engineering 1 B"
+  },
+  {
+    "id": "21",
+    "department_id": "1",
+    "subject_code": "3140503",
+    "subject_name": "Heat Transfer"
+  },
+  {
+    "id": "22",
+    "department_id": "1",
+    "subject_code": "3140507",
+    "subject_name": "Chemical Engineering Thermodynamics II"
+  },
+  {
+    "id": "23",
+    "department_id": "1",
+    "subject_code": "3140508",
+    "subject_name": "Unit Processes & Chemical Technology"
+  },
+  {
+    "id": "24",
+    "department_id": "1",
+    "subject_code": "3140509",
+    "subject_name": "Pollution control & safety Management"
+  },
+  {
+    "id": "25",
+    "department_id": "1",
+    "subject_code": "3140510",
+    "subject_name": "Numerical Methods in Chemical Engineering"
+  },
+  {
+    "id": "26",
+    "department_id": "4",
+    "subject_code": "3150001",
+    "subject_name": "Design Engineering - II A"
+  },
+  {
+    "id": "27",
+    "department_id": "4",
+    "subject_code": "3150004",
+    "subject_name": "Contributor Personality Development Program"
+  },
+  {
+    "id": "28",
+    "department_id": "4",
+    "subject_code": "3150501",
+    "subject_name": "Mass Transfer Operations I"
+  },
+  {
+    "id": "29",
+    "department_id": "4",
+    "subject_code": "3150502",
+    "subject_name": "Mechanical Operations"
+  },
+  {
+    "id": "30",
+    "department_id": "4",
+    "subject_code": "3150504",
+    "subject_name": "Instrumentation and Process Control"
+  },
+  {
+    "id": "31",
+    "department_id": "4",
+    "subject_code": "3150506",
+    "subject_name": "Chemical Process Plant Design & Economics"
+  },
+  {
+    "id": "32",
+    "department_id": "4",
+    "subject_code": "3150507",
+    "subject_name": "Energy Technology"
+  },
+  {
+    "id": "33",
+    "department_id": "3",
+    "subject_code": "3160002",
+    "subject_name": "Contributor Personality Development Program"
+  },
+  {
+    "id": "34",
+    "department_id": "3",
+    "subject_code": "3160003",
+    "subject_name": "Integrated Personality Development Course"
+  },
+  {
+    "id": "35",
+    "department_id": "3",
+    "subject_code": "3160501",
+    "subject_name": "Mass Transfer Operations II"
+  },
+  {
+    "id": "36",
+    "department_id": "3",
+    "subject_code": "3160507",
+    "subject_name": "Advanced Separation Processes"
+  },
+  {
+    "id": "37",
+    "department_id": "3",
+    "subject_code": "3160510",
+    "subject_name": "Petroleum Refining and Petrochemicals"
+  },
+  {
+    "id": "38",
+    "department_id": "3",
+    "subject_code": "3160511",
+    "subject_name": "Polymer Science and Technology"
+  },
+  {
+    "id": "39",
+    "department_id": "3",
+    "subject_code": "3160512",
+    "subject_name": "Biochemical Engineering"
+  },
+  {
+    "id": "40",
+    "department_id": "3",
+    "subject_code": "3160513",
+    "subject_name": "Waste Water Engineering"
+  },
+  {
+    "id": "41",
+    "department_id": "3",
+    "subject_code": "3160514",
+    "subject_name": "Green Technology and sustainable Development"
+  },
+  {
+    "id": "42",
+    "department_id": "3",
+    "subject_code": "3160515",
+    "subject_name": "Solid waste Management"
+  },
+  {
+    "id": "43",
+    "department_id": "5",
+    "subject_code": "3180501",
+    "subject_name": "Internship/Project"
   }
 ]
