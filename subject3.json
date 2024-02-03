@@ -1,20 +1,422 @@
 [
   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+    "id": "1",
+    "department_id": "3",
+    "subject_code": "3110005",
+    "subject_name": "Basic Electrical Engineering"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "2",
+    "department_id": "3",
+    "subject_code": "3110007",
+    "subject_name": "Environmental Science"
   },
-   {
-    "id" : "1",
-    "department_id" : "1",
-    "subject_code" : "333333",
-    "subject_name" : "Xyz"
+  {
+    "id": "3",
+    "department_id": "3",
+    "subject_code": "3110013",
+    "subject_name": "Engineering Graphics & Design"
+  },
+  {
+    "id": "4",
+    "department_id": "3",
+    "subject_code": "3110014",
+    "subject_name": "Mathematics – 1"
+  },
+  {
+    "id": "5",
+    "department_id": "3",
+    "subject_code": "3110003",
+    "subject_name": "Programming for Problem Solving"
+  },
+  {
+    "id": "6",
+    "department_id": "3",
+    "subject_code": "3110006",
+    "subject_name": "Basic Mechanical Engineering"
+  },
+  {
+    "id": "7",
+    "department_id": "3",
+    "subject_code": "3110015",
+    "subject_name": "Mathematics – 2"
+  },
+  {
+    "id": "8",
+    "department_id": "3",
+    "subject_code": "3110016",
+    "subject_name": "Basic Electronics"
+  },
+  {
+    "id": "9",
+    "department_id": "3",
+    "subject_code": "3110018",
+    "subject_name": "Physics"
+  },
+  {
+    "id": "10",
+    "department_id": "3",
+    "subject_code": "3110004",
+    "subject_name": "Basic Civil Engineering"
+  },
+  {
+    "id": "11",
+    "department_id": "3",
+    "subject_code": "3110002",
+    "subject_name": "English"
+  },
+  {
+    "id": "12",
+    "department_id": "3",
+    "subject_code": "3130606",
+    "subject_name": "Geotechnical Engineering"
+  },
+  {
+    "id": "13",
+    "department_id": "3",
+    "subject_code": "3130607",
+    "subject_name": "Building Construction Technology"
+  },
+  {
+    "id": "14",
+    "department_id": "3",
+    "subject_code": "3130608",
+    "subject_name": "Mechanics of Solids"
+  },
+  {
+    "id": "15",
+    "department_id": "3",
+    "subject_code": "3130609",
+    "subject_name": "Building and Town Planning"
+  },
+  {
+    "id": "16",
+    "department_id": "3",
+    "subject_code": "3130004",
+    "subject_name": "Effective Technical Communication"
+  },
+  {
+    "id": "17",
+    "department_id": "3",
+    "subject_code": "3130007",
+    "subject_name": "Indian Constitution"
+  },
+  {
+    "id": "18",
+    "department_id": "3",
+    "subject_code": "3130008",
+    "subject_name": "Design Engineering 1 A"
+  },
+  {
+    "id": "19",
+    "department_id": "3",
+    "subject_code": "3130606",
+    "subject_name": "Geotechnical Engineering"
+  },
+  {
+    "id": "20",
+    "department_id": "3",
+    "subject_code": "3130607",
+    "subject_name": "Building Construction Technology"
+  },
+  {
+    "id": "21",
+    "department_id": "3",
+    "subject_code": "3130608",
+    "subject_name": "Mechanics of Solids"
+  },
+  {
+    "id": "22",
+    "department_id": "3",
+    "subject_code": "3130609",
+    "subject_name": "Building and Town Planning"
+  },
+  {
+    "id": "23",
+    "department_id": "3",
+    "subject_code": "3130004",
+    "subject_name": "Effective Technical Communication"
+  },
+  {
+    "id": "24",
+    "department_id": "3",
+    "subject_code": "3130007",
+    "subject_name": "Indian Constitution"
+  },
+  {
+    "id": "25",
+    "department_id": "3",
+    "subject_code": "3130008",
+    "subject_name": "Design Engineering 1 A"
+  },
+  {
+    "id": "26",
+    "department_id": "3",
+    "subject_code": "3150004",
+    "subject_name": "Contributor Personality Development Program (CPDP)"
+  },
+  {
+    "id": "27",
+    "department_id": "3",
+    "subject_code": "3150005",
+    "subject_name": "Integrated Personality Development Course (IPDC)"
+  },
+  {
+    "id": "28",
+    "department_id": "3",
+    "subject_code": "3150610",
+    "subject_name": "Concrete Technology"
+  },
+  {
+    "id": "29",
+    "department_id": "3",
+    "subject_code": "3150611",
+    "subject_name": "Transportation Engineering"
+  },
+  {
+    "id": "30",
+    "department_id": "3",
+    "subject_code": "3150612",
+    "subject_name": "Design of Structures"
+  },
+  {
+    "id": "31",
+    "department_id": "3",
+    "subject_code": "3150613",
+    "subject_name": "Pavement Design and Highway construction"
+  },
+  {
+    "id": "32",
+    "department_id": "3",
+    "subject_code": "3150614",
+    "subject_name": "Structural analysis-II"
+  },
+  {
+    "id": "33",
+    "department_id": "3",
+    "subject_code": "3150615",
+    "subject_name": "Soil Mechanics"
+  },
+  {
+    "id": "34",
+    "department_id": "3",
+    "subject_code": "3150616",
+    "subject_name": "Pipeline Engineering"
+  },
+  {
+    "id": "35",
+    "department_id": "3",
+    "subject_code": "3150617",
+    "subject_name": "Remote Sensing and GIS"
+  },
+  {
+    "id": "36",
+    "department_id": "3",
+    "subject_code": "3151108",
+    "subject_name": "Python Programming"
+  },
+  {
+    "id": "37",
+    "department_id": "3",
+    "subject_code": "3150001",
+    "subject_name": "Design Engineering 2 A"
+  },
+  {
+    "id": "38",
+    "department_id": "3",
+    "subject_code": "3160002",
+    "subject_name": "Contributor Personality Development Program (CPDP)"
+  },
+  {
+    "id": "39",
+    "department_id": "3",
+    "subject_code": "3160003",
+    "subject_name": "Integrated Personality Development Course (IPDC -2)"
+  },
+  {
+    "id": "40",
+    "department_id": "3",
+    "subject_code": "3160608",
+    "subject_name": "Urban Transportation Planning"
+  },
+  {
+    "id": "41",
+    "department_id": "3",
+    "subject_code": "3160610",
+    "subject_name": "Water Resources Engineering and Hydrology"
+  },
+  {
+    "id": "42",
+    "department_id": "3",
+    "subject_code": "3160611",
+    "subject_name": "Environmental Engineering"
+  },
+  {
+    "id": "43",
+    "department_id": "3",
+    "subject_code": "3160612",
+    "subject_name": "Design of Reinforced Concrete structures"
+  },
+  {
+    "id": "44",
+    "department_id": "3",
+    "subject_code": "3160613",
+    "subject_name": "Rock Mechanics and Tunneling"
+  },
+  {
+    "id": "45",
+    "department_id": "3",
+    "subject_code": "3160614",
+    "subject_name": "Contracts Management"
+  },
+  {
+    "id": "46",
+    "department_id": "3",
+    "subject_code": "3160615",
+    "subject_name": "Traffic Engineering and Management"
+  },
+  {
+    "id": "47",
+    "department_id": "3",
+    "subject_code": "3160616",
+    "subject_name": "Foundation Engineering"
+  },
+  {
+    "id": "48",
+    "department_id": "3",
+    "subject_code": "3160617",
+    "subject_name": "Construction Equipment and Automation"
+  },
+  {
+    "id": "49",
+    "department_id": "3",
+    "subject_code": "3160618",
+    "subject_name": "Open Channel flow"
+  },
+  {
+    "id": "50",
+    "department_id": "3",
+    "subject_code": "3160619",
+    "subject_name": "Soft Computing Techniques"
+  },
+  {
+    "id": "51",
+    "department_id": "3",
+    "subject_code": "3160620",
+    "subject_name": "Instrumentation and Sensors"
+  },
+  {
+    "id": "52",
+    "department_id": "3",
+    "subject_code": "3160621",
+    "subject_name": "Earthquake Engineering"
+  },
+  {
+    "id": "53",
+    "department_id": "3",
+    "subject_code": "3160001",
+    "subject_name": "Design Engineering 2 B"
+  },
+  {
+    "id": "54",
+    "department_id": "3",
+    "subject_code": "3170609",
+    "subject_name": "Irrigation Engineering"
+  },
+  {
+    "id": "55",
+    "department_id": "3",
+    "subject_code": "3170614",
+    "subject_name": "Construction Engineering and Management"
+  },
+  {
+    "id": "56",
+    "department_id": "3",
+    "subject_code": "3170615",
+    "subject_name": "Engineering Economics, Estimation and Costing"
+  },
+  {
+    "id": "57",
+    "department_id": "3",
+    "subject_code": "3170616",
+    "subject_name": "Retrofitting of structures"
+  },
+  {
+    "id": "58",
+    "department_id": "3",
+    "subject_code": "3170617",
+    "subject_name": "Application of GIS in Civil Engineering"
+  },
+  {
+    "id": "59",
+    "department_id": "3",
+    "subject_code": "3170618",
+    "subject_name": "Design of Steel Structures"
+  },
+  {
+    "id": "60",
+    "department_id": "3",
+    "subject_code": "3170619",
+    "subject_name": "Railway and Airport Engineering"
+  },
+  {
+    "id": "61",
+    "department_id": "3",
+    "subject_code": "3170620",
+    "subject_name": "Computational Geotechnics"
+  },
+  {
+    "id": "62",
+    "department_id": "3",
+    "subject_code": "3170621",
+    "subject_name": "Design of hydraulic structures"
+  },
+  {
+    "id": "63",
+    "department_id": "3",
+    "subject_code": "3170622",
+    "subject_name": "Precast Construction"
+  },
+  {
+    "id": "64",
+    "department_id": "3",
+    "subject_code": "3170623",
+    "subject_name": "Port and Harbour Engineering"
+  },
+  {
+    "id": "65",
+    "department_id": "3",
+    "subject_code": "3170624",
+    "subject_name": "Design of Prestressed Concrete structures"
+  },
+  {
+    "id": "66",
+    "department_id": "3",
+    "subject_code": "3170625",
+    "subject_name": "Environmental Impact Assessment"
+  },
+  {
+    "id": "67",
+    "department_id": "3",
+    "subject_code": "3170626",
+    "subject_name": "Design of Industrial Structures"
+  },
+  {
+    "id": "68",
+    "department_id": "3",
+    "subject_code": "3170627",
+    "subject_name": "ICT For Development"
+  },
+  {
+    "id": "69",
+    "department_id": "3",
+    "subject_code": "3170628",
+    "subject_name": "Infrastructure for Smart Cities"
+  },
+  {
+    "id": "70",
+    "department_id": "3",
+    "subject_code": "3170001",
+    "subject_name": "Summer Internship"
   }
 ]
