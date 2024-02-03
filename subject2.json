@@ -1,11 +1,5 @@
 [
   {
-    "id": "1",
-    "department_id": "2",
-    "subject_code": "3170001",
-    "subject_name": "Summer Internship"
-  },
-  {
     "id": "2",
     "department_id": "2",
     "subject_code": "3170501",
@@ -84,12 +78,6 @@
     "subject_name": "Indian Constitution"
   },
   {
-    "id": "15",
-    "department_id": "1",
-    "subject_code": "3130008",
-    "subject_name": "Design Engineering 1 A"
-  },
-  {
     "id": "16",
     "department_id": "1",
     "subject_code": "3130502",
@@ -112,12 +100,6 @@
     "department_id": "1",
     "subject_code": "3130508",
     "subject_name": "Material and Energy Balance Computations"
-  },
-  {
-    "id": "20",
-    "department_id": "1",
-    "subject_code": "3140005",
-    "subject_name": "Design Engineering 1 B"
   },
   {
     "id": "21",
@@ -148,12 +130,6 @@
     "department_id": "1",
     "subject_code": "3140510",
     "subject_name": "Numerical Methods in Chemical Engineering"
-  },
-  {
-    "id": "26",
-    "department_id": "4",
-    "subject_code": "3150001",
-    "subject_name": "Design Engineering - II A"
   },
   {
     "id": "27",
@@ -250,11 +226,5 @@
     "department_id": "3",
     "subject_code": "3160515",
     "subject_name": "Solid waste Management"
-  },
-  {
-    "id": "43",
-    "department_id": "5",
-    "subject_code": "3180501",
-    "subject_name": "Internship/Project"
   }
 ]
