@@ -3,4 +3,18 @@
   "department_path" : "/departments.json",
   "subject_path" : "/",
   "pdf_path" : "/pdf/"
+   "ad_manager" : {
+    "deparments_banner" : {
+        "status" : true
+    },
+    "subject_interstitial" : {
+        "status" : true
+    },
+    "pdf_reward" : {
+        "status" : true
+    },
+    "pdf_banner" : {
+        "status" : true
+    }
+  }
 }
