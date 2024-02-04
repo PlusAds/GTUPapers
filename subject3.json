@@ -102,42 +102,6 @@
     "subject_name": "Indian Constitution"
   },
   {
-    "id": "19",
-    "department_id": "3",
-    "subject_code": "3130606",
-    "subject_name": "Geotechnical Engineering"
-  },
-  {
-    "id": "20",
-    "department_id": "3",
-    "subject_code": "3130607",
-    "subject_name": "Building Construction Technology"
-  },
-  {
-    "id": "21",
-    "department_id": "3",
-    "subject_code": "3130608",
-    "subject_name": "Mechanics of Solids"
-  },
-  {
-    "id": "22",
-    "department_id": "3",
-    "subject_code": "3130609",
-    "subject_name": "Building and Town Planning"
-  },
-  {
-    "id": "23",
-    "department_id": "3",
-    "subject_code": "3130004",
-    "subject_name": "Effective Technical Communication"
-  },
-  {
-    "id": "24",
-    "department_id": "3",
-    "subject_code": "3130007",
-    "subject_name": "Indian Constitution"
-  },
-  {
     "id": "26",
     "department_id": "3",
     "subject_code": "3150004",
@@ -171,13 +135,13 @@
     "id": "31",
     "department_id": "3",
     "subject_code": "3150613",
-    "subject_name": "Pavement Design and Highway construction"
+    "subject_name": "Pavement Design and Highway Construction"
   },
   {
     "id": "32",
     "department_id": "3",
     "subject_code": "3150614",
-    "subject_name": "Structural analysis-II"
+    "subject_name": "Structural Analysis-II"
   },
   {
     "id": "33",
@@ -237,7 +201,7 @@
     "id": "43",
     "department_id": "3",
     "subject_code": "3160612",
-    "subject_name": "Design of Reinforced Concrete structures"
+    "subject_name": "Design of Reinforced Concrete Structures"
   },
   {
     "id": "44",
@@ -273,7 +237,7 @@
     "id": "49",
     "department_id": "3",
     "subject_code": "3160618",
-    "subject_name": "Open Channel flow"
+    "subject_name": "Open Channel Flow"
   },
   {
     "id": "50",
@@ -315,7 +279,7 @@
     "id": "57",
     "department_id": "3",
     "subject_code": "3170616",
-    "subject_name": "Retrofitting of structures"
+    "subject_name": "Retrofitting of Structures"
   },
   {
     "id": "58",
@@ -345,7 +309,7 @@
     "id": "62",
     "department_id": "3",
     "subject_code": "3170621",
-    "subject_name": "Design of hydraulic structures"
+    "subject_name": "Design of Hydraulic Structures"
   },
   {
     "id": "63",
@@ -363,7 +327,7 @@
     "id": "65",
     "department_id": "3",
     "subject_code": "3170624",
-    "subject_name": "Design of Prestressed Concrete structures"
+    "subject_name": "Design of Prestressed Concrete Structures"
   },
   {
     "id": "66",
@@ -388,5 +352,5 @@
     "department_id": "3",
     "subject_code": "3170628",
     "subject_name": "Infrastructure for Smart Cities"
-  },
+  }
 ]
