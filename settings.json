@@ -6,16 +6,16 @@
   "pdf_path": "/pdf/",
   "ad_manager": {
     "deparments_banner": {
-      "status": false
+      "status": true
     },
     "subject_interstitial": {
-      "status": false
+      "status": true
     },
     "pdf_reward": {
-      "status": false
+      "status": true
     },
     "pdf_banner": {
-      "status": false
+      "status": true
     }
   }
 }
