@@ -3,252 +3,294 @@
         "id": "1",
         "department_id": "1",
         "subject_code": "3110005",
-        "subject_name": "Basic Electrical Engineering"
+        "subject_name": "Basic Electrical Engineering",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
     },
     {
         "id": "2",
         "department_id": "1",
         "subject_code": "3110007",
-        "subject_name": "Environmental Science"
+        "subject_name": "Environmental Science",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1598/1598431.png"
     },
     {
         "id": "3",
         "department_id": "1",
         "subject_code": "3110013",
-        "subject_name": "Engineering Graphics & Design"
+        "subject_name": "Engineering Graphics & Design",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3884/3884858.png"
     },
     {
         "id": "4",
         "department_id": "1",
         "subject_code": "3110014",
-        "subject_name": "Mathematics - 1"
+        "subject_name": "Mathematics - 1",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771275.png"
     },
     {
         "id": "5",
         "department_id": "1",
         "subject_code": "3110003",
-        "subject_name": "Programming for Problem Solving"
+        "subject_name": "Programming for Problem Solving",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1336/1336494.png"
     },
     {
         "id": "6",
         "department_id": "1",
         "subject_code": "3110006",
-        "subject_name": "Basic Mechanical Engineering"
+        "subject_name": "Basic Mechanical Engineering",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711789.png"
     },
     {
         "id": "7",
         "department_id": "1",
         "subject_code": "3110015",
-        "subject_name": "Mathematics - 2"
+        "subject_name": "Mathematics - 2",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771275.png"
     },
     {
         "id": "8",
         "department_id": "1",
         "subject_code": "3110016",
-        "subject_name": "Basic Electronics"
+        "subject_name": "Basic Electronics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103658.png"
     },
     {
         "id": "9",
         "department_id": "1",
         "subject_code": "3110018",
-        "subject_name": "Physics"
+        "subject_name": "Physics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3182/3182644.png"
     },
     {
         "id": "10",
         "department_id": "1",
         "subject_code": "3110004",
-        "subject_name": "Basic Civil Engineering"
+        "subject_name": "Basic Civil Engineering",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3159/3159310.png"
     },
     {
         "id": "11",
         "department_id": "1",
         "subject_code": "3110002",
-        "subject_name": "English"
+        "subject_name": "English",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3002/3002543.png"
     },
     {
         "id": "1",
         "department_id": "1",
         "subject_code": "3131904",
-        "subject_name": "Material Science and Metallurgy"
+        "subject_name": "Material Science and Metallurgy",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103674.png"
     },
     {
         "id": "2",
         "department_id": "1",
         "subject_code": "3131905",
-        "subject_name": "Engineering Thermodynamics"
+        "subject_name": "Engineering Thermodynamics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103720.png"
     },
     {
         "id": "3",
         "department_id": "1",
         "subject_code": "3131906",
-        "subject_name": "Kinematics and Theory of Machines"
+        "subject_name": "Kinematics and Theory of Machines",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711814.png"
     },
     {
         "id": "4",
         "department_id": "1",
         "subject_code": "3130004",
-        "subject_name": "Effective Technical Communication"
+        "subject_name": "Effective Technical Communication",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157001.png"
     },
     {
         "id": "5",
         "department_id": "1",
         "subject_code": "3130005",
-        "subject_name": "Complex Variables and Partial Differential Equations"
+        "subject_name": "Complex Variables and Partial Differential Equations",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771275.png"
     },
     {
         "id": "6",
         "department_id": "1",
         "subject_code": "3130007",
-        "subject_name": "Indian Constitution"
+        "subject_name": "Indian Constitution",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3002/3002489.png"
     },
     {
         "id": "1",
         "department_id": "1",
         "subject_code": "3141901",
-        "subject_name": "Mechanical Measurement and Metrology"
+        "subject_name": "Mechanical Measurement and Metrology",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103689.png"
     },
     {
         "id": "2",
         "department_id": "1",
         "subject_code": "3141906",
-        "subject_name": "Fluid Mechanics and Hydraulics Machines"
+        "subject_name": "Fluid Mechanics and Hydraulics Machines",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103707.png"
     },
     {
         "id": "3",
         "department_id": "1",
         "subject_code": "3141907",
-        "subject_name": "Fundamentals of Machine Design"
+        "subject_name": "Fundamentals of Machine Design",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3884/3884858.png"
     },
     {
         "id": "4",
         "department_id": "1",
         "subject_code": "3141908",
-        "subject_name": "Manufacturing Processes"
+        "subject_name": "Manufacturing Processes",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711793.png"
     },
     {
         "id": "5",
         "department_id": "1",
         "subject_code": "3141909",
-        "subject_name": "Organisational Behaviour"
+        "subject_name": "Organisational Behaviour",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157034.png"
     },
     {
         "id": "1",
         "department_id": "1",
         "subject_code": "3150004",
-        "subject_name": "Contributor Personality Development Program (CPDP)"
+        "subject_name": "Contributor Personality Development Program (CPDP)",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157055.png"
     },
     {
         "id": "2",
         "department_id": "1",
         "subject_code": "3150005",
-        "subject_name": "Integrated Personality Development Course (IPDC)"
+        "subject_name": "Integrated Personality Development Course (IPDC)",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157055.png"
     },
     {
         "id": "3",
         "department_id": "1",
         "subject_code": "3151908",
-        "subject_name": "Control Engineering"
+        "subject_name": "Control Engineering",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103644.png"
     },
     {
         "id": "4",
         "department_id": "1",
         "subject_code": "3151909",
-        "subject_name": "Heat Transfer"
+        "subject_name": "Heat Transfer",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103720.png"
     },
     {
         "id": "5",
         "department_id": "1",
         "subject_code": "3151910",
-        "subject_name": "Operation Research"
+        "subject_name": "Operation Research",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771395.png"
     },
     {
         "id": "6",
         "department_id": "1",
         "subject_code": "3151911",
-        "subject_name": "Dynamics of Machinery"
+        "subject_name": "Dynamics of Machinery",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711814.png"
     },
     {
         "id": "7",
         "department_id": "1",
         "subject_code": "3151912",
-        "subject_name": "Manufacturing Technology"
+        "subject_name": "Manufacturing Technology",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711793.png"
     },
     {
         "id": "8",
         "department_id": "1",
         "subject_code": "3151913",
-        "subject_name": "Oil Hydraulics And Pneumatics"
+        "subject_name": "Oil Hydraulics And Pneumatics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103707.png"
     },
     {
         "id": "9",
         "department_id": "1",
         "subject_code": "3151911",
-        "subject_name": "Dynamics of Machinery"
+        "subject_name": "Dynamics of Machinery",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711814.png"
     },
     {
         "id": "10",
         "department_id": "1",
         "subject_code": "3151912",
-        "subject_name": "Manufacturing Technology"
+        "subject_name": "Manufacturing Technology",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711793.png"
     },
     {
         "id": "11",
         "department_id": "1",
         "subject_code": "3151913",
-        "subject_name": "Oil Hydraulics And Pneumatics"
+        "subject_name": "Oil Hydraulics And Pneumatics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103707.png"
     },
     {
         "id": "12",
         "department_id": "1",
         "subject_code": "3150001",
-        "subject_name": "Design Engineering 2 A"
+        "subject_name": "Design Engineering 2 A",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3884/3884858.png"
     },
     {
         "id": "13",
         "department_id": "1",
         "subject_code": "3161919",
-        "subject_name": "Energy Conservation and Management"
+        "subject_name": "Energy Conservation and Management",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1598/1598431.png"
     },
     {
         "id": "14",
         "department_id": "1",
         "subject_code": "3161920",
-        "subject_name": "Automobile Engineering"
+        "subject_name": "Automobile Engineering",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711801.png"
     },
     {
         "id": "15",
         "department_id": "1",
         "subject_code": "3161921",
-        "subject_name": "Machine Tool Design"
+        "subject_name": "Machine Tool Design",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711789.png"
     },
     {
         "id": "16",
         "department_id": "1",
         "subject_code": "3161922",
-        "subject_name": "Advanced Manufacturing Processes"
+        "subject_name": "Advanced Manufacturing Processes",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711793.png"
     },
     {
         "id": "17",
         "department_id": "1",
         "subject_code": "3161923",
-        "subject_name": "Non-destructive Testing"
+        "subject_name": "Non-destructive Testing",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103689.png"
     },
     {
         "id": "18",
         "department_id": "1",
         "subject_code": "3161924",
-        "subject_name": "Entrepreneurship and E-business"
+        "subject_name": "Entrepreneurship and E-business",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157034.png"
     },
     {
         "id": "19",
         "department_id": "1",
         "subject_code": "3161925",
-        "subject_name": "Cyber Laws and Ethics"
+        "subject_name": "Cyber Laws and Ethics",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
     },
     {
         "id": "20",
         "department_id": "1",
         "subject_code": "3161926",
-        "subject_name": "Industry 4.0"
+        "subject_name": "Industry 4.0",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2711/2711789.png"
     }
 ]
